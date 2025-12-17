@@ -1,0 +1,23 @@
+name: Actual HTTP API
+version: "25.12.0"
+slug: actual-http-api
+description: "Home Assistant Addon  for Actual Budget HTTP API"
+url: "https://github.com/mikeomat/ha-actual-http-api"
+arch:
+  - aarch64
+  - amd64
+startup: services
+boot: auto
+ports:
+  5007/tcp: 5007
+webui: "http://[HOST]:[PORT:5007]/api-docs"
+panel_icon: mdi:cash-multiple
+options:
+  actual_server_url: "http://homeassistant.local:5006/"
+  actual_server_password: ""
+  api_key: ""
+schema:
+  actual_server_url: str
+  actual_server_password: password
+  api_key: password
+  port: int
