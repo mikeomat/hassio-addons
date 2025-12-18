@@ -1,0 +1,4 @@
+{
+  "upstream_repo": "traefik/traefik",
+  "strip_v_prefix": true
+}
