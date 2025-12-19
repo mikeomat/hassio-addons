@@ -20,4 +20,3 @@ schema:
   actual_server_url: str
   actual_server_password: password
   api_key: password
-  port: int

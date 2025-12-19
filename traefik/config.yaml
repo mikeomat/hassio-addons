@@ -1,5 +1,5 @@
 name: Traefik
-version: "3.6.5"
+version: "3.6.5-1"
 slug: traefik
 description: |
   Traefik is a modern HTTP reverse proxy and load balancer that makes deploying
@@ -26,7 +26,6 @@ hassio_role: default
 hassio_api: true
 panel_icon: mdi:earth-arrow-right
 map:
-  - homeassistant_config
   - ssl:rw
   - type: addon_config
     path: /config
@@ -35,7 +34,7 @@ options:
   access_logs: false
   forwarded_headers_insecure: false
   insecure_skip_verify: false
-  dynamic_configuration_path: "/homeassistant/traefik/"
+  dynamic_configuration_path: "/config"
   letsencrypt:
     enabled: false
     resolvers: []
