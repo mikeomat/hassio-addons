@@ -1,5 +1,5 @@
 name: Actual HTTP API
-version: "26.2.0"
+version: "26.2.1"
 slug: actual-http-api
 description: "Home Assistant Addon  for Actual Budget HTTP API"
 url: "https://github.com/mikeomat/ha-actual-http-api"

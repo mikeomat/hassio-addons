@@ -1,3 +1,16 @@
+## [26.2.1] - 2026-02-25
+
+**Upstream Release:** [26.2.1](https://github.com/jhonderson/actual-http-api/releases/tag/26.2.1)
+
+Changes:
+- Upgrading actual-api dependency to version `26.2.1`
+- Added run-query route by @snqyz in https://github.com/jhonderson/actual-http-api/pull/56
+
+Use `docker pull jhondersonyy/actual-http-api:26.2.1` or `docker pull jhonderson/actual-http-api:latest`
+
+---
+
+
 ## [26.2.0] - 2026-02-04
 
 **Upstream Release:** [26.2.0](https://github.com/jhonderson/actual-http-api/releases/tag/26.2.0)
