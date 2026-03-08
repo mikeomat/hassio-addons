@@ -1,3 +1,16 @@
+## [26.3.0] - 2026-03-08
+
+**Upstream Release:** [26.3.0](https://github.com/jhonderson/actual-http-api/releases/tag/26.3.0)
+
+Changes:
+- Upgrading actual-api dependency to version `26.3.0`
+- use Actual‑QL for accounts/balancehistory to make it more efficient
+
+Use `docker pull jhondersonyy/actual-http-api:26.3.0` or `docker pull jhonderson/actual-http-api:latest`
+
+---
+
+
 ## [26.2.1] - 2026-02-25
 
 **Upstream Release:** [26.2.1](https://github.com/jhonderson/actual-http-api/releases/tag/26.2.1)
