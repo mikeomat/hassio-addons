@@ -1,3 +1,24 @@
+## [26.4.0] - 2026-04-07
+
+**Upstream Release:** [26.4.0](https://github.com/jhonderson/actual-http-api/releases/tag/26.4.0)
+
+## What's Changed
+* chore: bump jest from 30.2.0 to 30.3.0 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/66
+* fix bug in deleteRule function parameter Fixes #67 by @x-rous in https://github.com/jhonderson/actual-http-api/pull/68
+* chore: bump dotenv from 17.3.1 to 17.4.0 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/69
+* chore: bump dotenv from 17.4.0 to 17.4.1 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/73
+* chore: bump @actual-app/api from 26.3.0 to 26.4.0 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/74
+
+## New Contributors
+* @x-rous made their first contribution in https://github.com/jhonderson/actual-http-api/pull/68
+
+**Full Changelog**: https://github.com/jhonderson/actual-http-api/compare/26.3.0...26.4.0
+
+Use `docker pull jhondersonyy/actual-http-api:26.4.0` or `docker pull jhonderson/actual-http-api:latest`
+
+---
+
+
 ## [26.3.0] - 2026-03-08
 
 **Upstream Release:** [26.3.0](https://github.com/jhonderson/actual-http-api/releases/tag/26.3.0)
