@@ -1,3 +1,22 @@
+## [3.6.15] - 2026-04-29
+
+**Upstream Release:** [v3.6.15](https://github.com/traefik/traefik/releases/tag/v3.6.15)
+
+**Important:** Please read the [migration guide](https://doc.traefik.io/traefik/migrate/v3/#v3615).
+
+**Bug fixes:**
+- **[acme]** Bump github.com/go-acme/lego/v4 to v4.35.2 ([#13043](https://github.com/traefik/traefik/pull/13043) @ldez)
+- **[acme]** Bump github.com/go-acme/lego/v4 to v4.35.1 ([#13027](https://github.com/traefik/traefik/pull/13027) @ldez)
+- **[middleware]** Add errorRequestHeaders option to Errors middleware ([#13034](https://github.com/traefik/traefik/pull/13034) @gndz07)
+- **[k8s/ingress-nginx]** Do not require a port for ExternalName services ([#13033](https://github.com/traefik/traefik/pull/13033) @kevinpollet)
+- **[server]** Bump github.com/vulcand/oxy to v2.1.0 ([#13046](https://github.com/traefik/traefik/pull/13046) @ldez)
+
+**Misc:**
+- Make FLAGS Make variable usable ([#13009](https://github.com/traefik/traefik/pull/13009) @twz123)
+
+---
+
+
 ## [3.6.14] - 2026-04-22
 
 **Upstream Release:** [v3.6.14](https://github.com/traefik/traefik/releases/tag/v3.6.14)
