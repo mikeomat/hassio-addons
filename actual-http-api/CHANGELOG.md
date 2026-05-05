@@ -1,3 +1,24 @@
+## [26.5.0] - 2026-05-05
+
+**Upstream Release:** [26.5.0](https://github.com/jhonderson/actual-http-api/releases/tag/26.5.0)
+
+## What's Changed
+* feat: Add endpoints to set and delete notes by @ansidian in https://github.com/jhonderson/actual-http-api/pull/75
+* chore: bump dotenv from 17.4.1 to 17.4.2 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/76
+* chore: enhance importTransactions to accept options for defaultCleare… by @cgrinds in https://github.com/jhonderson/actual-http-api/pull/79
+* chore: bump @actual-app/api from 26.4.0 to 26.5.0 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/80
+
+## New Contributors
+* @ansidian made their first contribution in https://github.com/jhonderson/actual-http-api/pull/75
+* @cgrinds made their first contribution in https://github.com/jhonderson/actual-http-api/pull/79
+
+**Full Changelog**: https://github.com/jhonderson/actual-http-api/compare/26.4.0...26.5.0
+
+Use `docker pull jhondersonyy/actual-http-api:26.5.0` or `docker pull jhonderson/actual-http-api:latest`
+
+---
+
+
 ## [26.4.0] - 2026-04-07
 
 **Upstream Release:** [26.4.0](https://github.com/jhonderson/actual-http-api/releases/tag/26.4.0)
