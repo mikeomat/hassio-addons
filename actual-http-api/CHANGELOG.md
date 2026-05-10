@@ -1,3 +1,17 @@
+## [26.5.2] - 2026-05-10
+
+**Upstream Release:** [26.5.2](https://github.com/jhonderson/actual-http-api/releases/tag/26.5.2)
+
+## What's Changed
+* chore: bump jest from 30.3.0 to 30.4.0 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/82
+
+**Full Changelog**: https://github.com/jhonderson/actual-http-api/compare/26.5.0...26.5.2
+
+Use `docker pull jhondersonyy/actual-http-api:26.5.2` or `docker pull jhonderson/actual-http-api:latest`
+
+---
+
+
 ## [26.5.0] - 2026-05-05
 
 **Upstream Release:** [26.5.0](https://github.com/jhonderson/actual-http-api/releases/tag/26.5.0)
