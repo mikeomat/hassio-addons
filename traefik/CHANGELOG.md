@@ -1,3 +1,19 @@
+## [3.7.1] - 2026-05-11
+
+**Upstream Release:** [v3.7.1](https://github.com/traefik/traefik/releases/tag/v3.7.1)
+
+**Important:** Please read the [migration guide](https://doc.traefik.io/traefik/v3.7/migrate/v3/#v371).
+
+**CVE fixed:**
+- [CVE-2026-44774](https://nvd.nist.gov/vuln/detail/CVE-2026-44774) (Advisory [GHSA-96qj-4jj5-wcjc](https://github.com/traefik/traefik/security/advisories/GHSA-96qj-4jj5-wcjc))
+
+**Bug fixes:**
+- **[k8s/ingress, k8s/crd, k8s/gatewayapi]** Add CrossProviderNamespaces option  ([#13094](https://github.com/traefik/traefik/pull/13094) @rtribotte)
+- **[k8s/crd]** Fix cross-provider ref check for Kubernetes CRD provider ([#13121](https://github.com/traefik/traefik/pull/13121) @rtribotte)
+
+---
+
+
 ## [3.7.0] - 2026-05-05
 
 **Upstream Release:** [v3.7.0](https://github.com/traefik/traefik/releases/tag/v3.7.0)
