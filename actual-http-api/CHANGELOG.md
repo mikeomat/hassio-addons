@@ -1,3 +1,19 @@
+## [26.6.0] - 2026-06-03
+
+**Upstream Release:** [26.6.0](https://github.com/jhonderson/actual-http-api/releases/tag/26.6.0)
+
+## What's Changed
+* chore: bump archiver from 7.0.1 to 8.0.0 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/83
+* chore: bump jest from 30.4.0 to 30.4.2 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/84
+* chore: bump swagger-jsdoc from 6.2.8 to 6.3.0 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/85
+* chore: bump js-yaml from 4.1.1 to 4.2.0 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/86
+* Bumping actual nodejs api version from 26.5.2 to 26.6.0
+
+**Full Changelog**: https://github.com/jhonderson/actual-http-api/compare/26.5.2...26.6.0
+
+---
+
+
 ## [26.5.2] - 2026-05-10
 
 **Upstream Release:** [26.5.2](https://github.com/jhonderson/actual-http-api/releases/tag/26.5.2)
