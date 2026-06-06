@@ -1,3 +1,18 @@
+## [3.7.4] - 2026-06-05
+
+**Upstream Release:** [v3.7.4](https://github.com/traefik/traefik/releases/tag/v3.7.4)
+
+**Bug fixes:**
+- **[middleware]** Fix redis write timeout option configuration ([#13273](https://github.com/traefik/traefik/pull/13273) @bzyy1024)
+- **[webui]** Bump react-router and jsdom ([#13301](https://github.com/traefik/traefik/pull/13301) @gndz07)
+- **[k8s/gatewayapi]** Fix BackendTLSPolicy status update ([#13306](https://github.com/traefik/traefik/pull/13306) @AnatoleLucet)
+- **[http3]** Bump github.com/quic-go/quic-go to v0.59.1 ([#13300](https://github.com/traefik/traefik/pull/13300) @rtribotte)
+- **[webui]** Bump axios to v1.17.0 ([#13299](https://github.com/traefik/traefik/pull/13299) @gndz07)
+- **[tls]** Fix snicheck with keepalive ([#13305](https://github.com/traefik/traefik/pull/13305) @juliens)
+
+---
+
+
 ## [3.7.3] - 2026-06-04
 
 **Upstream Release:** [v3.7.3](https://github.com/traefik/traefik/releases/tag/v3.7.3)
