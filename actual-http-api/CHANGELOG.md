@@ -1,3 +1,26 @@
+## [26.6.1] - 2026-06-09
+
+**Upstream Release:** [26.6.1](https://github.com/jhonderson/actual-http-api/releases/tag/26.6.1)
+
+## What's Changed
+* fix: [C5] fix export endpoint broken by archiver v8 ESM upgrade by @x-rous in https://github.com/jhonderson/actual-http-api/pull/92
+* fix: [C1] replace forEach with for...of in deleteTransactions by @x-rous in https://github.com/jhonderson/actual-http-api/pull/88
+* fix: [C2] replace internal note API usage with official getNote/updateNote by @x-rous in https://github.com/jhonderson/actual-http-api/pull/89
+* fix: [C3] parse cutoff_date as local Date to avoid UTC timezone offset by @x-rous in https://github.com/jhonderson/actual-http-api/pull/90
+* fix: [C4] use URL ruleId as authoritative source in updateRule route by @x-rous in https://github.com/jhonderson/actual-http-api/pull/91
+* fix: [P1] forward initialBalance in createAccount by @x-rous in https://github.com/jhonderson/actual-http-api/pull/93
+* fix: [P2] forward hidden filter in getCategories and getCategoryGroups by @x-rous in https://github.com/jhonderson/actual-http-api/pull/94
+* fix: [P3] forward resetNextDate in updateSchedule by @x-rous in https://github.com/jhonderson/actual-http-api/pull/95
+* chore: [P5][D6] fix budget month Swagger schema accuracy by @x-rous in https://github.com/jhonderson/actual-http-api/pull/96
+* fix: [M3] swap deprecated runQuery for official aqlQuery internally by @x-rous in https://github.com/jhonderson/actual-http-api/pull/100
+* feat: [M2] expose getCommonPayees as GET /common-payees endpoint by @x-rous in https://github.com/jhonderson/actual-http-api/pull/98
+* feat: [M1] expose getIDByName as GET /id-by-name endpoint by @x-rous in https://github.com/jhonderson/actual-http-api/pull/97
+
+**Full Changelog**: https://github.com/jhonderson/actual-http-api/compare/26.6.0...26.6.1
+
+---
+
+
 ## [26.6.0] - 2026-06-03
 
 **Upstream Release:** [26.6.0](https://github.com/jhonderson/actual-http-api/releases/tag/26.6.0)
