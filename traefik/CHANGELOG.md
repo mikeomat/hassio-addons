@@ -1,3 +1,18 @@
+## [3.7.5] - 2026-06-10
+
+**Upstream Release:** [v3.7.5](https://github.com/traefik/traefik/releases/tag/v3.7.5)
+
+**Bug fixes:**
+- **[k8s/ingress-nginx]** Skip ingress when auth-secret resolution fails ([#13323](https://github.com/traefik/traefik/pull/13323) @gndz07)
+- **[k8s/ingress-nginx]** Pass endpointslice fencing on ingress-nginx provider ([#13290](https://github.com/traefik/traefik/pull/13290) @Learloj)
+- **[k8s/gatewayapi]** Reject cross-provider references with backendRefs.namespace ([#13322](https://github.com/traefik/traefik/pull/13322) @youkoulayley)
+- **[server]** Bump to github.com/pires/go-proxyproto v0.12.0 ([#13313](https://github.com/traefik/traefik/pull/13313) @timschumi)
+- **[tls]** Fix routers with same host, different tlsoptions on different entryPoint ([#13329](https://github.com/traefik/traefik/pull/13329) @juliens)
+- **[tls]** Fix snicheck for routers with no hosts ([#13333](https://github.com/traefik/traefik/pull/13333) @rtribotte)
+
+---
+
+
 ## [3.7.4] - 2026-06-05
 
 **Upstream Release:** [v3.7.4](https://github.com/traefik/traefik/releases/tag/v3.7.4)
