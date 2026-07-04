@@ -1,3 +1,21 @@
+## [26.7.0] - 2026-07-03
+
+**Upstream Release:** [26.7.0](https://github.com/jhonderson/actual-http-api/releases/tag/26.7.0)
+
+## What's Changed
+* chore: bump js-yaml from 4.2.0 to 5.0.0 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/104
+* chore: bump js-yaml from 5.0.0 to 5.1.0 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/105
+* chore: bump js-yaml from 5.1.0 to 5.2.0 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/106
+* feat: Add consolidated account balances endpoint with optional filtering by @patterueldev in https://github.com/jhonderson/actual-http-api/pull/55
+* chore: bump js-yaml from 5.2.0 to 5.2.1 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/107
+* chore: bump @actual-app/api from 26.6.0 to 26.7.0 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/108
+
+
+**Full Changelog**: https://github.com/jhonderson/actual-http-api/compare/26.6.1...26.7.0
+
+---
+
+
 ## [26.6.1] - 2026-06-09
 
 **Upstream Release:** [26.6.1](https://github.com/jhonderson/actual-http-api/releases/tag/26.6.1)
