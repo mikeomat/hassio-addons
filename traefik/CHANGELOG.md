@@ -1,3 +1,21 @@
+## [3.7.8] - 2026-07-15
+
+**Upstream Release:** [v3.7.8](https://github.com/traefik/traefik/releases/tag/v3.7.8)
+
+**Bug fixes:**
+- **[middleware, k8s/crd]** Add missing ErrorRequestHeaders field to CRDs ([#13498](https://github.com/traefik/traefik/pull/13498) @kevinpollet)
+- **[k8s/ingress-nginx]** Sanitize rewritten target on ingress-nginx provider ([#13506](https://github.com/traefik/traefik/pull/13506) @gndz07)
+- **[logs]** Remove unrelated error from nonexistent cert resolver log ([#13469](https://github.com/traefik/traefik/pull/13469) @ArthurHlt)
+- **[middleware]** Fix panic in retry middleware with Websockets ([#13520](https://github.com/traefik/traefik/pull/13520) @juliens)
+
+**Documentation:**
+- **[k8s]** Align certificateRef and indicate ports ([#13473](https://github.com/traefik/traefik/pull/13473) @veenoise)
+- **[rules]** Fix syntax notes in routing rule documentation ([#13501](https://github.com/traefik/traefik/pull/13501) @stevenlele)
+- **[k8s/crd]** Fix duplicated options table in ServersTransport CRD reference ([#13518](https://github.com/traefik/traefik/pull/13518) @rachana5)
+
+---
+
+
 ## [3.7.7] - 2026-07-08
 
 **Upstream Release:** [v3.7.7](https://github.com/traefik/traefik/releases/tag/v3.7.7)
