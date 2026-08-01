@@ -1,3 +1,23 @@
+## [3.7.10] - 2026-07-31
+
+**Upstream Release:** [v3.7.10](https://github.com/traefik/traefik/releases/tag/v3.7.10)
+
+**Bug fixes:**
+- **[acme]** Bump github.com/go-acme/lego/v5 to v5.3.1 ([#13547](https://github.com/traefik/traefik/pull/13547) @ldez)
+- **[middleware, authentication]** Fix auth singleflight key collision ([#13572](https://github.com/traefik/traefik/pull/13572) @mmatur)
+- **[k8s/gatewayapi]** Avoid router name collisions in Kubernetes Gateway API provider ([#13580](https://github.com/traefik/traefik/pull/13580) @gndz07)
+- **[tracing]** Bump github.com/DataDog/dd-trace-go/v2 to 2.8.1 ([#13530](https://github.com/traefik/traefik/pull/13530) @kevinpollet)
+- Bump golang.org/x/text to v0.40.0 and golang.org/x/net v0.57.0 ([#13574](https://github.com/traefik/traefik/pull/13574) @mmatur)
+- **[k8s/crd]** Fix cross-namespace service reference check in Kubernetes CRD provider ([#13573](https://github.com/traefik/traefik/pull/13573) @gndz07)
+- **[middleware]** Bump github.com/klauspost/compress to v1.18.7 ([#13587](https://github.com/traefik/traefik/pull/13587) @mmatur)
+- **[k8s/gatewayapi]** Bump sigs.k8s.io/gateway-api to v1.6.1 ([#13589](https://github.com/traefik/traefik/pull/13589) @rtribotte)
+
+**Documentation:**
+- **[k8s/ingress-nginx]** Clarify auth-url/rewrite-target interaction on ingress-nginx provider ([#13607](https://github.com/traefik/traefik/pull/13607) @gndz07)
+
+---
+
+
 ## [3.7.9] - 2026-07-24
 
 **Upstream Release:** [v3.7.9](https://github.com/traefik/traefik/releases/tag/v3.7.9)
