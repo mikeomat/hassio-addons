@@ -1,3 +1,17 @@
+## [26.8.0] - 2026-08-03
+
+**Upstream Release:** [26.8.0](https://github.com/jhonderson/actual-http-api/releases/tag/26.8.0)
+
+## What's Changed
+* chore: bump js-yaml from 5.2.1 to 5.2.2 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/110
+* Fix encrypted budget reopen handling by @antoncuranz in https://github.com/jhonderson/actual-http-api/pull/111
+
+
+**Full Changelog**: https://github.com/jhonderson/actual-http-api/compare/26.7.0...26.8.0
+
+---
+
+
 ## [26.7.0] - 2026-07-03
 
 **Upstream Release:** [26.7.0](https://github.com/jhonderson/actual-http-api/releases/tag/26.7.0)
