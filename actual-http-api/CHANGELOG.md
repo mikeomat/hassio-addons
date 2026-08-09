@@ -1,3 +1,15 @@
+## [26.8.1] - 2026-08-09
+
+**Upstream Release:** [26.8.1](https://github.com/jhonderson/actual-http-api/releases/tag/26.8.1)
+
+## What's Changed
+* chore: bump js-yaml from 5.2.2 to 5.2.3 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/113
+
+**Full Changelog**: https://github.com/jhonderson/actual-http-api/compare/26.8.0...26.8.1
+
+---
+
+
 ## [26.8.0] - 2026-08-03
 
 **Upstream Release:** [26.8.0](https://github.com/jhonderson/actual-http-api/releases/tag/26.8.0)
