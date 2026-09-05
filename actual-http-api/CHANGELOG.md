@@ -1,3 +1,25 @@
+## [26.9.0] - 2026-09-04
+
+**Upstream Release:** [26.9.0](https://github.com/jhonderson/actual-http-api/releases/tag/26.9.0)
+
+## What's Changed
+* chore: bump js-yaml from 5.2.3 to 5.3.0 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/115
+* chore: bump js-yaml from 5.3.0 to 5.4.1 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/118
+* chore: bump jest from 30.4.2 to 30.5.0 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/119
+* Upgrade @actual-app/api to 26.9.0 and expose payeeNameNormalization by @x-rous in https://github.com/jhonderson/actual-http-api/pull/121
+* Expose budget preferences as GET /budgets/{budgetSyncId}/preferences (26.8.0) by @x-rous in https://github.com/jhonderson/actual-http-api/pull/126
+* Expose account groups CRUD endpoints (26.9.0) by @x-rous in https://github.com/jhonderson/actual-http-api/pull/123
+* fix: the api endpoints accept a budgetsyncid paramet... in rules.js by @anupamme in https://github.com/jhonderson/actual-http-api/pull/112
+* Export budget through the official exportBudget API and drop archiver (26.8.0) by @x-rous in https://github.com/jhonderson/actual-http-api/pull/125
+
+## New Contributors
+* @anupamme made their first contribution in https://github.com/jhonderson/actual-http-api/pull/112
+
+**Full Changelog**: https://github.com/jhonderson/actual-http-api/compare/26.8.1...26.9.0
+
+---
+
+
 ## [26.8.1] - 2026-08-09
 
 **Upstream Release:** [26.8.1](https://github.com/jhonderson/actual-http-api/releases/tag/26.8.1)
