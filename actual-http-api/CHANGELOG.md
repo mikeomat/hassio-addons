@@ -1,3 +1,30 @@
+## [26.10.0] - 2026-10-04
+
+**Upstream Release:** [26.10.0](https://github.com/jhonderson/actual-http-api/releases/tag/26.10.0)
+
+## What's Changed
+* chore: bump jest from 30.5.0 to 30.5.1 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/128
+* Expose importBudget as POST /budgets/import by @x-rous in https://github.com/jhonderson/actual-http-api/pull/127
+* chore: bump js-yaml from 5.4.1 to 5.4.2 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/129
+* chore: bump dotenv from 17.4.2 to 18.0.0 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/130
+* chore: bump jest from 30.5.1 to 30.5.2 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/131
+* chore: bump dotenv from 18.0.0 to 18.0.1 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/132
+* chore: bump dotenv from 18.0.1 to 18.0.2 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/133
+* chore: bump supertest from 7.2.2 to 7.3.0 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/134
+* chore: bump dotenv from 18.0.2 to 18.0.3 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/135
+* chore: bump dotenv from 18.0.3 to 18.0.4 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/136
+* chore: bump version to 26.10.0 by @x-rous in https://github.com/jhonderson/actual-http-api/pull/138
+* feat: add schedule notes endpoints by @nowak-mariusz in https://github.com/jhonderson/actual-http-api/pull/137
+* feat: add transaction merge and set preference new endpoints introduced in v26.10.0 by @x-rous in https://github.com/jhonderson/actual-http-api/pull/139
+
+## New Contributors
+* @nowak-mariusz made their first contribution in https://github.com/jhonderson/actual-http-api/pull/137
+
+**Full Changelog**: https://github.com/jhonderson/actual-http-api/compare/26.9.0...26.10.0
+
+---
+
+
 ## [26.9.0] - 2026-09-04
 
 **Upstream Release:** [26.9.0](https://github.com/jhonderson/actual-http-api/releases/tag/26.9.0)
