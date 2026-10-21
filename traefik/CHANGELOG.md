@@ -1,3 +1,21 @@
+## [3.7.16] - 2026-10-20
+
+**Upstream Release:** [v3.7.16](https://github.com/traefik/traefik/releases/tag/v3.7.16)
+
+**CVE fixed:**
+- Advisory [GHSA-hrpp-p4fc-wwf8](https://github.com/traefik/traefik/security/advisories/GHSA-hrpp-p4fc-wwf8)
+
+**Bug fixes:**
+- **[authentication, service, k8s/ingress-nginx]** Support NTLM and Kerberos in ForwardAuth and ingress-nginx auth-url ([#14091](https://github.com/traefik/traefik/pull/14091) @juliens)
+- **[authentication, service]** Support NTLM and Kerberos authentication in ForwardAuth ([#14084](https://github.com/traefik/traefik/pull/14084) @juliens)
+- **[k8s/gatewayapi]** Fix Gateway API conformance suite setup with the containerd image store ([#14089](https://github.com/traefik/traefik/pull/14089) @Neffi42)
+
+**Documentation:**
+- **[k8s/ingress-nginx]** Document that rewrite is supported in configuration-snippet ([#14070](https://github.com/traefik/traefik/pull/14070) @bingtang9)
+
+---
+
+
 ## [3.7.15] - 2026-10-15
 
 **Upstream Release:** [v3.7.15](https://github.com/traefik/traefik/releases/tag/v3.7.15)
