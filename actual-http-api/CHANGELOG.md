@@ -1,3 +1,24 @@
+## [26.10.1] - 2026-10-27
+
+**Upstream Release:** [26.10.1](https://github.com/jhonderson/actual-http-api/releases/tag/26.10.1)
+
+## What's Changed
+* chore: bump dotenv from 18.0.4 to 18.0.5 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/141
+* chore: bump supertest from 7.3.0 to 7.3.1 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/142
+* chore: bump js-yaml from 5.4.2 to 5.4.3 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/143
+* chore: bump dotenv from 18.0.5 to 18.0.6 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/144
+* chore: bump express from 5.2.1 to 5.3.0 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/145
+* chore: bump dotenv from 18.0.6 to 18.0.7 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/146
+* feat: expose the bank reported balance as include_bank_balance by @PhilRW in https://github.com/jhonderson/actual-http-api/pull/147
+* chore: bump dotenv from 18.0.7 to 18.0.8 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/148
+* chore: bump dotenv from 18.0.8 to 18.0.9 by @dependabot[bot] in https://github.com/jhonderson/actual-http-api/pull/150
+
+
+**Full Changelog**: https://github.com/jhonderson/actual-http-api/compare/26.10.0...26.10.1
+
+---
+
+
 ## [26.10.0] - 2026-10-04
 
 **Upstream Release:** [26.10.0](https://github.com/jhonderson/actual-http-api/releases/tag/26.10.0)
