@@ -1,3 +1,12 @@
+## [26.11.0] - 2026-11-02
+
+**Upstream Release:** [26.11.0](https://github.com/jhonderson/actual-http-api/releases/tag/26.11.0)
+
+**Full Changelog**: https://github.com/jhonderson/actual-http-api/compare/26.10.1...26.11.0
+
+---
+
+
 ## [26.10.1] - 2026-10-27
 
 **Upstream Release:** [26.10.1](https://github.com/jhonderson/actual-http-api/releases/tag/26.10.1)
